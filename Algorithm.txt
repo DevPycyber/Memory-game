@@ -1,0 +1,10 @@
+ALGORITHME D'UN JEU DE MEMOIRE
+
+DEBUT
+    
+    PROCEDURE initialiser_graphisme()
+        x = 100
+        y = 150
+        0
+        
+
