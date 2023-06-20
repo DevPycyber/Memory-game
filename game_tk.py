@@ -39,7 +39,7 @@ def print_game():
     puzzle_frame.place(x=180, y=80) 
     window_game.pack()
     
-play_image = PhotoImage(file="./assets/play.png")
+play_image = PhotoImage(file="play.png")
     
 
 play_button = Button(Home_page, text="", image=play_image, width=4, height=4, command=print_game)
