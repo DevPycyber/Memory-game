@@ -1,0 +1,6 @@
+[X] remplacer les dico par des listes pour simplifier le programme
+[X] finaliser le niveau 1
+
+[ ] rajouter un niveau 2 voire un niveau 3
+[ ] design car interface dégeu.
+
